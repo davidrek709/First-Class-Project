@@ -6,4 +6,4 @@ Application description:
 Basic html based project, utilizing css for styling. Just KC is a website for visitors of Kansas City who are looking for attractions. 
 
 Technology:
-
+HTML, CSS, Google search API
