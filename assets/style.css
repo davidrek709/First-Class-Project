@@ -11,7 +11,7 @@
 #photos {
     align-items: center;
 }
-
+/* creating responsivness  */
 .img-fluid {
     height: 190px;
     width: 100%;
